@@ -1,3 +1,6 @@
+
+
+
 # Mastering Docker Enterprise
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/mastering-docker-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781789612073 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B12053.png" alt="Mastering Docker Enterprise" height="256px" align="right"></a>
@@ -66,3 +69,7 @@ Mark manages NVISIA’s Docker partnership by working closely with Docker’s Tr
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789612073">https://packt.link/free-ebook/9781789612073 </a> </p>
